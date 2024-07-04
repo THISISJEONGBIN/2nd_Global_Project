@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="1" time="160.415" timestamp="2024-07-01T10:29:51.901400" hostname="PARK-YISIEUL1"><testcase classname="" name="test_xml" time="0.000"><error message="collection failure">test_xml.py:5: in &lt;module&gt;
+    tree = ET.parse('result.xml')
+..\..\..\anaconda3\Lib\xml\etree\ElementTree.py:1218: in parse
+    tree.parse(source, parser)
+..\..\..\anaconda3\Lib\xml\etree\ElementTree.py:569: in parse
+    source = open(source, "rb")
+E   FileNotFoundError: [Errno 2] No such file or directory: 'result.xml'</error></testcase></testsuite></testsuites>

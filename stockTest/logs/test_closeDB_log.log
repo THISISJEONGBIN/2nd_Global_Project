@@ -1,0 +1,33 @@
+2024-06-30 12:52:33,645 - numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-06-30 12:52:33,645 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-06-30 12:52:50,391 - kivy - WARNING - Config: Older configuration version detected (0 instead of 27)
+2024-06-30 12:52:50,391 - kivy - WARNING - Config: Upgrading configuration in progress.
+2024-06-30 12:52:50,391 - kivy - DEBUG - Config: Upgrading from 0 to 1
+2024-06-30 12:52:50,396 - kivy - INFO - deps: Successfully imported "kivy_deps.angle" 0.4.0
+2024-06-30 12:52:50,397 - kivy - INFO - Logger: Record log in C:\Users\yiseul\.kivy\logs\kivy_24-06-30_3.txt
+2024-06-30 12:52:50,397 - kivy - INFO - deps: Successfully imported "kivy_deps.glew" 0.3.1
+2024-06-30 12:52:50,397 - kivy - INFO - deps: Successfully imported "kivy_deps.sdl2" 0.7.0
+2024-06-30 12:52:50,398 - kivy - INFO - Kivy: v2.3.0
+2024-06-30 12:52:50,398 - kivy - INFO - Kivy: Installed at "C:\Users\yiseul\anaconda3\Lib\site-packages\kivy\__init__.py"
+2024-06-30 12:52:50,398 - kivy - INFO - Python: v3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)]
+2024-06-30 12:52:50,399 - kivy - INFO - Python: Interpreter at "C:\Users\yiseul\anaconda3\python.exe"
+2024-06-30 12:52:50,399 - kivy - INFO - Logger: Purge log fired. Processing...
+2024-06-30 12:52:50,411 - kivy - INFO - Logger: Purge finished!
+2024-06-30 12:52:50,422 - kivy - INFO - KivyMD: 2.0.1.dev0, git-Unknown, 2024-06-21 (installed at "C:\Users\yiseul\anaconda3\Lib\site-packages\kivymd\__init__.py")
+2024-06-30 12:52:50,425 - kivy - INFO - Factory: 195 symbols loaded
+2024-06-30 12:52:50,481 - kivy - INFO - Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+2024-06-30 12:52:50,510 - kivy - INFO - Text: Provider: sdl2
+2024-06-30 12:52:50,744 - kivy - INFO - Window: Provider: sdl2
+2024-06-30 12:52:51,197 - kivy - INFO - GL: Using the "OpenGL" graphics system
+2024-06-30 12:52:51,205 - kivy - INFO - GL: GLEW initialization succeeded
+2024-06-30 12:52:51,206 - kivy - INFO - GL: Backend used <glew>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: OpenGL version <b'4.6.0 Compatibility Profile Context 22.20.24.02.220906'>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: OpenGL vendor <b'ATI Technologies Inc.'>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: OpenGL renderer <b'AMD Radeon(TM) Graphics'>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: OpenGL parsed version: 4, 6
+2024-06-30 12:52:51,206 - kivy - INFO - GL: Shading version <b'4.60'>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: Texture max size <16384>
+2024-06-30 12:52:51,206 - kivy - INFO - GL: Texture max units <32>
+2024-06-30 12:52:51,314 - kivy - INFO - Window: auto add sdl2 input provider
+2024-06-30 12:52:51,316 - kivy - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2024-06-30 12:52:51,338 - kivy - INFO - Clipboard: Provider: winctypes
